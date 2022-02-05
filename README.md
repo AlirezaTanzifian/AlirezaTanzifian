@@ -1,5 +1,5 @@
 <img src="https://alirezatanzifian.ir/wp-content/uploads/2022/02/logo.jpg"  alt="Alireza Tanzifian"/>
-<br/><br/>
+
 <h2>Developer & Web Designer</h2>
 
 <p>Hello, I am Alireza Tanzifian;<br>
