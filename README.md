@@ -1,4 +1,4 @@
-<h2>Developer & Web Designer</h2>
+<h2>Front End Developer</h2>
 
 <p>Hello, I am Alireza Tanzifian;<br>
 Developer and web designer from Iran - Isfahan.<br>
