@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alireza Tanzifian</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<p>
+<p align="center">
   I am a front-end development engineer who works with JavaScript and the Vue and React frameworks
 </p>
 
