@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alireza Tanzifian</h1>
-<h3 align="center">frontend developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently learning **react and redux**
+<p>
+  I am a front-end development engineer who works with JavaScript and the Vue and React frameworks
+</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alireza tanzifian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alireza tanzifian" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14976314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14976314" height="30" width="40" /></a>
-<a href="https://instagram.com/alirezatanzifian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alirezatanzifian" height="30" width="40" /></a>
+  See my portfolio at <a href="https://alirezatanzifian.github.io/" target="_blank"> Alireza Tanzifian</a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
