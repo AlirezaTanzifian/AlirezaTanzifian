@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 <p align="center">
-  I am a front-end development engineer who works with JavaScript and the Vue and React frameworks
+  I am a front-end developer who works with JavaScript and the Vue and React frameworks
 </p>
 
 <h3 align="center">Connect with me:</h3>
